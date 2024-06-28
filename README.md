@@ -5,11 +5,10 @@ This script allows you to change the visibility of your GitHub repositories (pub
 ## Setup
 
 1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/sshd911/repository-visibility-changer
-.git
-    cd repository-visibility-changer
-    ```
+```bash
+git clone https://github.com/sshd911/visibility-changer.git
+cd visibility-changer
+```
 
 2. **Configure your settings**:
     - Open `config.sh` and fill in the necessary variables.
