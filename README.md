@@ -38,13 +38,13 @@ GITHUB_TOKEN="${GITHUB_TOKEN}"
 # Options:
 # "public" - Targets public repositories.
 # "private" - Targets private repositories.
-REPOS_VISIBILITY_TYPE="public"
+REPOS_VISIBILITY_TYPE="private"
 
 # Specify the desired visibility change for the target repositories.
 # Options:
 # "true" - Set repositories to private.
 # "false" - Set repositories to public.
-SET_TO_PRIVATE="true"
+SET_TO_PRIVATE="false"
 ```
 
 ## Running the script

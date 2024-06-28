@@ -16,5 +16,3 @@ REPOS_VISIBILITY_TYPE="public"
 # "true" - Set repositories to private.
 # "false" - Set repositories to public.
 SET_TO_PRIVATE="true"
-
-
